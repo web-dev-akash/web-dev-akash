@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A Passionate Front-End Developer.</h3>
-<img align="right" width="330" border-radius="5px" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="coding-image" />
+<img align="right" width="250" border-radius="5px" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="coding-image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-dev-akash&label=Profile%20views&color=0e75b6&style=flat" alt="web-dev-akash" /> </p>
 
