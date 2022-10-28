@@ -1,30 +1,82 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A Passionate Front-End Developer.</h3>
-<img align="right" width="250" border-radius="5px" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="coding-image" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-dev-akash&label=Profile%20views&color=0e75b6&style=flat" alt="web-dev-akash" /> </p>
+   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Akash Kumar </h1>
+ <br>
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Front-End+Developer;MERN+Developer;Thanks+for+Visiting...)](https://git.io/typing-svg)
+  <br>
+   ## 👨🏻‍💻 About Me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-dev-akash" alt="web-dev-akash" /></a> </p>
+<img  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="280px" align="right" />
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript(ES6), Redux**
+- 🙋‍♂️ All about me is at **[Personal Portfolio]()**
 
-- 📫 How to reach me **Akumar415129.ak@gmail.com**
+- 🔭 I’m currently working on `Something Intresting`.
 
-- 📄 Checkout Resume [https://drive.google.com/file/d/177yO2_OQPcXTUpnR6gfyjzlahtVWGpOg/view?usp=sharing](https://drive.google.com/file/d/177yO2_OQPcXTUpnR6gfyjzlahtVWGpOg/view?usp=sharing)
+- 🌱 I’m currently learning `MERN Stack`
 
-- ⚡ Fun fact **Time has more importance than Space in both real world as well as in coding world.**
+- 👯 I’m looking to collaborate for some `Exciting Projects`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-kumar-902a62169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kumar-902a62169/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/a.kash_4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.kash_4/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akumar415129_ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/akumar415129_ak" height="30" width="40" /></a>
+- ⚡ Fun Fact: Time has more importance than Space in both real world as well as in coding world. 
+
+- 💓 Loves designing Beautiful and Interactive UI's.
+
+- 📫 Reach out to me **akumar415129.ak@gmail.com**
+
+<br>
+
+
+
+
+
+
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,materialui,mongodb,nodejs,tailwind,linux" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-dev-akash&show_icons=true&locale=en&layout=compact" alt="web-dev-akash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-dev-akash&show_icons=true&locale=en" alt="web-dev-akash" /></p>
+<h2 align="center"><i>Tools</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=codepen,git,github,heroku,netlify,powershell,vscode,visualstudio,vercel,slack" />
+  </a>
+</p>
+
+
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-kumar-902a62169/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="akumar415129.ak@gmail.com" href="mailto:akumar415129.ak@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="email" /></a>
+  <a href="https://wa.me/917018178377" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="#" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+</p>
+
+
+
+<h2>📊 Github Stats</h2>
+<br/>
+
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=web-dev-akash&show_icons=true&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-akash&layout=compact&theme=dark" />
+</div>
+ <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=web-dev-akash&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=web-dev-akash&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=web-dev-akash&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web-dev-akash&theme=vue" alt="summarycard"/> </p>
+<hr />
+<h3 align="center">
+ Show some ❤️ by giving a Follow.
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/web-dev-akash/count.svg" />
+</h3>
