@@ -8,13 +8,13 @@
 
 <img  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="280px" align="right" />
 
-- 🙋‍♂️ Checkout my **[Personal Portfolio]()**
+- 🙋‍♂️ Checkout my **[Personal Portfolio](https://akash-dev.netlify.app/)**
+
+- ⚡ Here's my **[Linked In](https://www.linkedin.com/in/akash-kumar-902a62169/)**
 
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for some `Exciting Projects`
-
-- ⚡ Fun Fact: Time has more importance than Space in both real world as well as in coding world. 
 
 - 💓 Loves designing Beautiful and Interactive UI's.
 
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/akash-kumar-902a62169/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="akumar415129.ak@gmail.com" href="mailto:akumar415129.ak@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="email" /></a>
   <a href="https://wa.me/917018178377" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="#" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+  <a href="https://akash-dev.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
 </p>
 
 
