@@ -12,8 +12,6 @@
 
 - ⚡ Here's my **[Linked In](https://www.linkedin.com/in/akash-kumar-902a62169/)**
 
-- 🌱 I’m currently learning `MERN Stack`
-
 - 👯 I’m looking to collaborate for some `Exciting Projects`
 
 - 💓 Loves designing Beautiful and Interactive UI's.
